@@ -1,5 +1,7 @@
 ### Hello, folks! 👋
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/vinicyus-silva/)](https://https://www.linkedin.com/in/vinicyus-silva/)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/silvavinicyus)](https://github.com/silvavinicyus)
 
 ### About me 
   My name is Vinícyus Silva and I'm studing to become a fullstack developer, focusing on backend. 
